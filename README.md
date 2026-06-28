@@ -1,7 +1,18 @@
-[![BUILD](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/ci.yml/badge.svg)](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/ci.yml)
-[![SETUP](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/setup.yml/badge.svg)](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/setup.yml)
-[![TESTS](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/tests.yml/badge.svg)](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/tests.yml)
-[![DEPENDABOT](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Macadoshis/stalker-to-m3u/actions/workflows/dependabot/dependabot-updates)
+<p align="center">
+  <a href="https://github.com/Belfagor2005">
+    <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/lululla">
+    <img src="https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Ko-fi">
+  </a>
+
+  <a href="https://paypal.me/belfagor2005">
+    <img src="https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="PayPal">
+  </a>
+</p>
 
 <a href="https://www.buymeacoffee.com/macadoshis" target="_blank" rel="noopener">
 <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="116">
