@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/macadoshis" target="_blank" rel="noopener">
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="27" width="116">
-</a>
-
 # General
 
 This script is used to generate M3U format files from Stalker portal streams.
